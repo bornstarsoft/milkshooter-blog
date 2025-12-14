@@ -1,10 +1,11 @@
 
-baseURL = "https://milkshooter-blog.pages.dev/"
+baseURL = "https://milkshooter.com/"
 languageCode = "en-us"
-title = "MilkShooter Blog"
+title = "Milk Shooter"
 theme = "ananke"
-buildFuture = true
-paginate = 10
+paginate = 12
+enableRobotsTXT = true
+buildFuture = false
 
 [params]
   mainSections = ["posts"]
